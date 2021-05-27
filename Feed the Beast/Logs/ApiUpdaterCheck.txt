@@ -1,0 +1,320 @@
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:55:12 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1233.9897ms
+moved types parse time: 96ms
+candidates parse time : 2ms
+C# parse time         : 652ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:55:14 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.869ms
+moved types parse time: 126ms
+candidates parse time : 2ms
+C# parse time         : 414ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:55:16 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 147.0134ms
+moved types parse time: 101ms
+candidates parse time : 3ms
+C# parse time         : 497ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:55:17 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.0064ms
+moved types parse time: 87ms
+candidates parse time : 2ms
+C# parse time         : 567ms
+candidates check time : 57ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:57:04 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113.005ms
+moved types parse time: 95ms
+candidates parse time : 2ms
+C# parse time         : 358ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/16/2021 11:58:14 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.0129ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 394ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 9:36:44 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1883.2932ms
+moved types parse time: 188ms
+candidates parse time : 4ms
+C# parse time         : 990ms
+candidates check time : 94ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 9:36:48 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 197.0159ms
+moved types parse time: 174ms
+candidates parse time : 3ms
+C# parse time         : 552ms
+candidates check time : 79ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 9:48:29 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.0186ms
+moved types parse time: 204ms
+candidates parse time : 4ms
+C# parse time         : 561ms
+candidates check time : 85ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 9:48:40 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.0131ms
+moved types parse time: 178ms
+candidates parse time : 3ms
+C# parse time         : 590ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 9:48:55 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.5317ms
+moved types parse time: 129ms
+candidates parse time : 3ms
+C# parse time         : 816ms
+candidates check time : 108ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:07:37 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1652.366ms
+moved types parse time: 104ms
+candidates parse time : 2ms
+C# parse time         : 1122ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:48:46 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1188.6817ms
+moved types parse time: 220ms
+candidates parse time : 5ms
+C# parse time         : 667ms
+candidates check time : 76ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:49:02 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.0269ms
+moved types parse time: 135ms
+candidates parse time : 3ms
+C# parse time         : 632ms
+candidates check time : 100ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:49:43 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.2951ms
+moved types parse time: 125ms
+candidates parse time : 3ms
+C# parse time         : 449ms
+candidates check time : 111ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:51:35 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.0087ms
+moved types parse time: 111ms
+candidates parse time : 3ms
+C# parse time         : 466ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:51:47 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 140.3548ms
+moved types parse time: 175ms
+candidates parse time : 5ms
+C# parse time         : 645ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:52:07 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.01ms
+moved types parse time: 151ms
+candidates parse time : 3ms
+C# parse time         : 511ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 10:52:16 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.0152ms
+moved types parse time: 148ms
+candidates parse time : 3ms
+C# parse time         : 617ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/18/2021 11:21:14 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 921.072ms
+moved types parse time: 101ms
+candidates parse time : 3ms
+C# parse time         : 622ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/19/2021 12:03:35 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1916.7935ms
+moved types parse time: 133ms
+candidates parse time : 3ms
+C# parse time         : 902ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/19/2021 12:04:14 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.0092ms
+moved types parse time: 128ms
+candidates parse time : 3ms
+C# parse time         : 549ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/19/2021 12:04:28 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.0114ms
+moved types parse time: 119ms
+candidates parse time : 3ms
+C# parse time         : 526ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/19/2021 12:24:57 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1540.9741ms
+moved types parse time: 151ms
+candidates parse time : 4ms
+C# parse time         : 744ms
+candidates check time : 74ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/19/2021 10:45:34 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1017.5883ms
+moved types parse time: 93ms
+candidates parse time : 2ms
+C# parse time         : 563ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/20/2021 4:06:28 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1025.0796ms
+moved types parse time: 93ms
+candidates parse time : 2ms
+C# parse time         : 529ms
+candidates check time : 96ms
+console write time    : 182ms
+
+[api-updater (non-obsolete-error-filter)] 5/21/2021 1:20:58 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2552.0622ms
+moved types parse time: 115ms
+candidates parse time : 3ms
+C# parse time         : 878ms
+candidates check time : 73ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 5/21/2021 1:21:12 AM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.6455ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 520ms
+candidates check time : 65ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/25/2021 8:59:12 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2077.1039ms
+moved types parse time: 207ms
+candidates parse time : 4ms
+C# parse time         : 1575ms
+candidates check time : 85ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 5/25/2021 9:18:35 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1923.4249ms
+moved types parse time: 106ms
+candidates parse time : 2ms
+C# parse time         : 1000ms
+candidates check time : 127ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/25/2021 9:34:17 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.9933ms
+moved types parse time: 180ms
+candidates parse time : 3ms
+C# parse time         : 503ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 5/26/2021 4:36:24 PM : Starting C:/Users/thejo/OneDrive/Documents/Unity Editors/2020.2.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2906.9486ms
+moved types parse time: 191ms
+candidates parse time : 4ms
+C# parse time         : 827ms
+candidates check time : 99ms
+console write time    : 1ms
+
