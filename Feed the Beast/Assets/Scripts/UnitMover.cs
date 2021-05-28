@@ -44,10 +44,10 @@ public class UnitMover : MonoBehaviour, ICommandable
         if(targeter.target == null) {
             agent.SetDestination((Vector3)pos);
             GameObject.Instantiate(pointIndicator, (Vector3)pos, transform.rotation);
-
-            if(thisIndex == 0) 
-                controller.PlayClip(pointClip.RandomClip());
         }
+
+        if(thisIndex == 0) 
+                controller.PlayClip(pointClip.RandomClip());
     }
 
     void Awake() {

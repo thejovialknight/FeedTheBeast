@@ -14,9 +14,9 @@ public class CameraController : MonoBehaviour
     }
 
     void Update() {
-        float xMove = Input.GetAxisRaw("Horizontal") * speed * Time.deltaTime;
-        float yMove = Input.GetAxisRaw("Vertical") * speed * Time.deltaTime;
-        target += new Vector3(xMove, yMove, 0f);
+        float xMove = Input.GetAxisRaw("Horizontal");
+        float yMove = Input.GetAxisRaw("Vertical");
+        target += new Vector3(xMove, yMove, 0f).normalized * speed * Time.deltaTime;
 
         transform.position = Vector3.Lerp(transform.position, target, lerpSpeed * Time.deltaTime);
     }

@@ -6,13 +6,42 @@ using UnityEngine;
 public class UnitOutlineController : MonoBehaviour, ISelectable
 {
     public SpriteRenderer outlineSprite;
-    public Color selectedOutline;
+    public Color maxHealthOutline;
+    public Color highHealthOutline;
+    public Color midHealthOutline;
+    public Color lowHealthOutline;
     public Color deselectedOutline;
 
+    public float midHealthThreshold = 0.5f;
+    public float lowHealthThreshold = 0.25f;
+
+    Health health;
     bool isSelected = false;
 
+    void Awake() {
+        health = GetComponent<Health>();
+    }
+
+    void Update() {
+        if(isSelected) {
+            SetSelectedColor();
+        }
+    }
+
+    void SetSelectedColor() {
+        if(health.health == health.maxHealth)
+            outlineSprite.color = maxHealthOutline;
+        else
+            outlineSprite.color = highHealthOutline;
+
+        if(health.health <= midHealthThreshold)
+            outlineSprite.color = midHealthOutline;
+            
+        if(health.health <= lowHealthThreshold)
+            outlineSprite.color = lowHealthOutline;
+    }
+
     public void Select(int thisIndex) {
-        outlineSprite.color = selectedOutline;
         isSelected = true;
     }
 
@@ -23,7 +52,7 @@ public class UnitOutlineController : MonoBehaviour, ISelectable
 
     public void Hover(){
         if(!isSelected)
-            outlineSprite.color = selectedOutline;
+            SetSelectedColor();
     }
 
     public void HoverLeave() {
