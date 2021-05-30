@@ -32,11 +32,9 @@ public class ReticleCorner : MonoBehaviour
         }
         else {
             desiredScale = Vector3.zero;
-            desiredPos = targetPosition + desiredPositionOffset; // remove desired for original
+            desiredPos = targetPosition + desiredPositionOffset;
         }
-
-        //transform.localScale = Vector3.Lerp(transform.localScale, desiredScale, scaleSpeed * Time.deltaTime);
-        transform.position = Vector3.Lerp(transform.position, desiredPos, scaleSpeed * Time.deltaTime);
+        transform.position = Vector3.Lerp(transform.position, desiredPos, moveSpeed * Time.deltaTime);
     }
 
     public void SetTarget(Vector3 posOff, Vector3 centerPosOff, Transform targ) {
@@ -44,8 +42,7 @@ public class ReticleCorner : MonoBehaviour
         centerPositionOffset = centerPosOff;
         target = targ;
 
-        transform.position = target.position + centerPositionOffset + desiredPositionOffset; //target.position + centerPositionOffset;
-        // transform.localScale = Vector3.zero;
+        transform.position = target.position + centerPositionOffset + desiredPositionOffset;
     }
 
     public void SetVisible(bool isVisible) {

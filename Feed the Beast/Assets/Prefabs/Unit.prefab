@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 88068273}
   - component: {fileID: 88068274}
   - component: {fileID: 88068275}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Food 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 112776833}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Food
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 435673702}
   - component: {fileID: 435673704}
   - component: {fileID: 435673703}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Food 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +328,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 454564111}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Reticles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleSpeed: 5
-  moveSpeed: 5
+  moveSpeed: 15
   isVisible: 0
 --- !u!95 &7302475286690895108
 Animator:
@@ -568,7 +568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleSpeed: 5
-  moveSpeed: 5
+  moveSpeed: 15
   isVisible: 0
 --- !u!95 &7264637719896527461
 Animator:
@@ -600,7 +600,7 @@ GameObject:
   - component: {fileID: 1593830222}
   - component: {fileID: 1593830224}
   - component: {fileID: 1593830223}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Food 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -788,7 +788,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleSpeed: 5
-  moveSpeed: 5
+  moveSpeed: 15
   isVisible: 0
 --- !u!95 &7281375329340088920
 Animator:
@@ -906,7 +906,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleSpeed: 5
-  moveSpeed: 5
+  moveSpeed: 15
   isVisible: 0
 --- !u!95 &2139743971
 Animator:
@@ -938,7 +938,7 @@ GameObject:
   - component: {fileID: 2941095930477087181}
   - component: {fileID: 2941095930477087182}
   - component: {fileID: 2941095930477087183}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1042,7 +1042,7 @@ GameObject:
   - component: {fileID: 2941095930608033239}
   - component: {fileID: 2941095930608033232}
   - component: {fileID: 2941095930608033233}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Outline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1155,6 +1155,7 @@ GameObject:
   - component: {fileID: 943220884}
   - component: {fileID: 438457274}
   - component: {fileID: 2813470312184344264}
+  - component: {fileID: 1015216996}
   m_Layer: 6
   m_Name: Unit
   m_TagString: Untagged
@@ -1386,14 +1387,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  reticleParent: {fileID: 454564111}
-  reticles:
-  - {fileID: 1163191537}
-  - {fileID: 6694370458813938127}
-  - {fileID: 4366610949516902842}
-  - {fileID: 1420979809094119778}
-  isSelected: 0
-  isHover: 0
 --- !u!114 &438457274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1424,3 +1417,23 @@ MonoBehaviour:
   - {fileID: 88068275}
   - {fileID: 1593830223}
   - {fileID: 435673703}
+--- !u!114 &1015216996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2941095932056574074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe08947d59dd5b4a8417ab7a8b66d12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  reticleParent: {fileID: 454564111}
+  reticles:
+  - {fileID: 1163191537}
+  - {fileID: 6694370458813938127}
+  - {fileID: 4366610949516902842}
+  - {fileID: 1420979809094119778}
+  isSelected: 0
+  isHover: 0

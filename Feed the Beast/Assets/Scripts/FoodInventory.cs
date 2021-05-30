@@ -21,6 +21,6 @@ public class FoodInventory : MonoBehaviour
         return false;
     }
 
-    public delegate void ChangedAction();
-    public event ChangedAction OnHealthChanged;
+    public delegate void ChangedEvent();
+    public event ChangedEvent OnHealthChanged;
 }
