@@ -43,10 +43,12 @@ public class UnitMover : MonoBehaviour, ICommandable
         // Move to point if no target is found
         if(targeter.target == null) {
             agent.SetDestination((Vector3)pos);
-            GameObject.Instantiate(pointIndicator, (Vector3)pos, transform.rotation);
+
+            if(pointIndicator != null)
+                GameObject.Instantiate(pointIndicator, (Vector3)pos, transform.rotation);
         }
 
-        if(thisIndex == 0) 
+        if(thisIndex == 0 && pointClip.Ready()) 
                 controller.PlayClip(pointClip.RandomClip());
     }
 

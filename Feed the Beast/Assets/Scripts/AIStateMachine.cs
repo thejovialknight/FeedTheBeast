@@ -15,6 +15,10 @@ public class AIStateMachine : MonoBehaviour
         state.Enter();
     }
 
+    void Start() {
+        SetState(initialState);
+    }
+
     void Update() {
         if(state != null)
             state.Tick();

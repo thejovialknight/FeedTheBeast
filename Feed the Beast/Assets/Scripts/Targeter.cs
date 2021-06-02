@@ -11,7 +11,6 @@ public class Targeter : MonoBehaviour
         OnTargetSet?.Invoke();
         return true;
     }
-
     public void ClearTarget() {
         target = null;
     }

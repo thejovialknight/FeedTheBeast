@@ -7,10 +7,10 @@ public class CameraController : MonoBehaviour
     public float speed = 96f;
     public float lerpSpeed = 5f;
 
-    Vector3 target;
+    public Vector3 target;
 
     void Start() {
-        target = transform.position;
+        // target = transform.position;
     }
 
     void Update() {
