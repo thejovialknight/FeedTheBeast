@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -72,8 +73,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -412,6 +413,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      FoodShadow_7: 1477684443165293822
+      FoodShadow_11: -3962379977837874038
+      FoodShadow_0: 7937232245306146792
+      FoodShadow_8: -6529818908893976700
+      FoodShadow_9: -5090066329641478007
+      FoodShadow_1: -7416698672188142313
+      FoodShadow_5: -5640397311429480475
+      FoodShadow_6: -6694643844614331741
+      FoodShadow_3: 4489319950584563782
+      FoodShadow_12: 1548464725930244750
+      FoodShadow_4: 8719783654584200125
+      FoodShadow_2: -8585102710968242561
+      FoodShadow_10: -3083971585557834590
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

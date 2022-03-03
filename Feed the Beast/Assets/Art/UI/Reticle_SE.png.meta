@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -57,8 +58,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -292,6 +293,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Reticle_SE_3: 3997964725442334081
+      Reticle_SE_2: -6493791121906242000
+      Reticle_SE_5: 5353529908131382699
+      Reticle_SE_6: -3321864468918308645
+      Reticle_SE_1: -6631522135048872749
+      Reticle_SE_7: 1203806511983646392
+      Reticle_SE_4: -1235886697867505245
+      Reticle_SE_0: 5013871415587554379
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
